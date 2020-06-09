@@ -1,6 +1,6 @@
 # FrontEnd
 
-Projeto criado para demonstrar diversas funcionalidades do Angular. Este projeto consume os dados via API Rest.
+Projeto criado para demonstrar diversas funcionalidades do Angular. Este projeto consume os dados via API Rest (https://github.com/rodrigopuls/back-end-rest-netcore).
 
 - RxJs: Observables, Subscribe e Unsubscribe
 - Reactive Forms: FormControls, FormGroupds, FormBuilder, Validação
