@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "rpuls-ng"
+  },
+  "targets": {
+    "site-avancado-angular": {
+      "hosting": {
+        "front-end": [
+          "site-avancado-angular"
+        ]
+      }
+    }
+  }
+}

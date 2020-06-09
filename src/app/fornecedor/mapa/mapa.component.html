@@ -1,0 +1,8 @@
+<div class="mapa-responsivo">
+  <ngx-spinner bdColor="rgba(0, 0, 0, 0.8)" size="medium" color="#fff" type="square-jelly-box" [fullScreen]="false">
+    <p class="spinner-text"> Processando... </p>
+  </ngx-spinner>
+
+  <iframe [src]="enderecoMap" (load)="esconderSpinner($event.target.src)" width="100%" height="450px" frameborder="0"
+    style="border:0;" allowfullscreen></iframe>
+</div>
