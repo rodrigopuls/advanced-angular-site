@@ -1,4 +1,4 @@
-# FrontEnd
+# Advanced Angular Site
 
 Project created to demonstrate several features of Angular from Basic to Advanced.
 
