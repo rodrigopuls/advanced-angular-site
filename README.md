@@ -1,25 +1,30 @@
 # FrontEnd
 
-Projeto criado para demonstrar diversas funcionalidades do Angular. Este projeto consume os dados via API Rest (https://github.com/rodrigopuls/back-end-rest-netcore).
+Project created to demonstrate several features of Angular from Basic to Advanced.
 
+## .Net Core Rest API
+You can access the API Repo clicking on the link: https://github.com/rodrigopuls/back-end-rest-netcore.
+
+
+## 
 - RxJs: Observables, Subscribe e Unsubscribe
 - Reactive Forms: FormControls, FormGroupds, FormBuilder, Validação
-- Módulos
-- Componentes
+- Modules
+- Components
 - Lazy Loading
 - Decorators
 - Routing: Rotas, Resolves, Snapshots, Parâmetros
 - Guards: CanLoad e CanActivate
 - Pipes
-- Dependency Injection: Serviços e Consumo
+- Dependency Injection: Service and Consume
 - State Management: RxJs
-- Teste de Unidade
+- Unit Teste
 - Bootstrap
-- Navegação
+- Navigation
 - CRUD
-- Consulta CEP
+- Zip Code search
 - Toastr
 - Google Maps
-- Carregamento de Tela
+- Screen loading
 - Login
-- entre outros
+- and more
