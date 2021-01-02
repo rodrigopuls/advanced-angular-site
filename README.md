@@ -2,11 +2,6 @@
 
 Project created to demonstrate several features of Angular from Basic to Advanced.
 
-## .Net Core Rest API
-You can access the API Repo clicking on the link: https://github.com/rodrigopuls/back-end-rest-netcore.
-
-
-## 
 - RxJs: Observables, Subscribe e Unsubscribe
 - Reactive Forms: FormControls, FormGroupds, FormBuilder, Validação
 - Modules
@@ -28,3 +23,8 @@ You can access the API Repo clicking on the link: https://github.com/rodrigopuls
 - Screen loading
 - Login
 - and more
+
+
+
+## .Net Core Rest API
+You can access the API Repo clicking on the link: https://github.com/rodrigopuls/back-end-rest-netcore.
